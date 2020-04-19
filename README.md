@@ -10,13 +10,22 @@ Source: https://twitter.com/rrding1995
 
 <img width="500" src="images/rrding_2.png">
 
-<img width="500" src="images/rrding_6.png">
-
-<img width="500" src="images/rrding_4.png">
-
-<img width="500" src="images/rrding_5.jpeg">
+<img width="800" src="images/rrding_6.png">
 
 <img width="500" src="images/rrding_3.jpeg">
+
+## De Brouwer
+
+Source: http://www.de-brouwer.com/
+
+<img width="500" src="images/brouwer_1.png">
+
+<img width="500" src="images/brouwer_2.png">
+
+<img width="500" src="images/brouwer_3.png">
+
+<img width="500" src="images/brouwer_4.png">
+
 
 
 ## Gazeta.pl
@@ -36,4 +45,8 @@ Source: https://wiadomosci.gazeta.pl/wiadomosci/14,166794,25831864.html
 <img width="500" src="images/kwp_3.png">
 
 <img width="500" src="images/kwp_4.png">
+
+## make fun 
+
+<img width="500" src="images/rrding_5.jpeg">
 
