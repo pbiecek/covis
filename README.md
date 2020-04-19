@@ -20,11 +20,11 @@ Source: http://www.de-brouwer.com/
 
 <img width="500" src="images/brouwer_1.png">
 
-<img width="500" src="images/brouwer_2.png">
-
 <img width="500" src="images/brouwer_3.png">
 
-<img width="500" src="images/brouwer_4.png">
+<img width="800" src="images/brouwer_4.png">
+
+<img width="500" src="images/brouwer_2.png">
 
 
 
@@ -37,6 +37,8 @@ Source: https://wiadomosci.gazeta.pl/wiadomosci/14,166794,25831864.html
 <img width="500" src="images/gazeta_2.png">
 
 ## koronawirus-w-polsce.pl
+
+<img width="700" src="images/kwp_5.png">
 
 <img width="500" src="images/kwp_1.png">
 
