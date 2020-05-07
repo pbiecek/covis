@@ -7,7 +7,7 @@ The covid19 pandemic has led to an increased interest in various forms of data v
 
 Source: https://analyzecore.com/2020/05/04/the-spread-of-covid-19-across-countries-visualization-with-r/
 
-<img width="500" src="images/covid-19_1_min.png">
+<img width="800" src="images/covid-19_1_min.png">
 
 
 ## @rrding1995
