@@ -3,11 +3,19 @@
 The covid19 pandemic has led to an increased interest in various forms of data visualisation. In this repository I collect good and bad, simple and complex approaches to covid19-related data visualization.
 
 
+
 ## analyzecore.com
 
 Source: https://analyzecore.com/2020/05/04/the-spread-of-covid-19-across-countries-visualization-with-r/
 
 <img width="800" src="images/covid-19_1_min.png">
+
+
+## Polityka.pl
+
+Source: https://www.polityka.pl/
+
+<img width="800" src="images/polityka.png">
 
 
 ## @rrding1995
