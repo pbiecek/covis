@@ -98,3 +98,5 @@ Source: https://wiadomosci.gazeta.pl/wiadomosci/14,166794,25831864.html
 
 <img width="500" src="images/rrding_5.jpeg">
 
+<img width="500" src="images/fakty.jpg">
+
