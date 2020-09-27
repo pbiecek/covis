@@ -17,6 +17,8 @@ Source: https://www.polityka.pl/
 
 <img width="800" src="images/polityka.png">
 
+<img width="500" src="images/polityka_27_09_2020.jpg">
+
 
 ## @rrding1995
 
@@ -81,6 +83,12 @@ Source: https://wiadomosci.gazeta.pl/wiadomosci/14,166794,25831864.html
 <img width="500" src="images/gazeta_1.png">
 
 <img width="500" src="images/gazeta_2.png">
+
+<img width="500" src="images/gazeta_27_09_2020.jpg">
+
+## Google.com
+
+<img width="500" src="images/google_27_09_2020.jpg">
 
 ## koronawirus-w-polsce.pl
 
